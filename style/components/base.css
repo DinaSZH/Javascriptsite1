@@ -1,0 +1,22 @@
+body {
+  background-color: #fdf4ea;
+  background-image: url("../../img/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  background-position: left right;
+  padding: 0 5%;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  background-color: #fff;
+  padding: 0 5%;
+  position: relative;
+  z-index: 1;
+  margin-bottom: 30px;
+}
